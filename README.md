@@ -94,3 +94,15 @@ Per migliorare le risposte del sistema, puoi aggiungere documenti di testo alla 
 - La prima esecuzione potrebbe richiedere più tempo per caricare i modelli in memoria.
 - Il modello LLM utilizzato è **Mistral-7B-Instruct**, quantizzato a 4-bit per ridurre l'utilizzo di memoria.
 - Questo sistema è progettato per funzionare completamente offline dopo il download iniziale dei modelli. Assicurati di eseguire gli script di download una sola volta con connessione internet attiva.
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- CONTRIBUTORS -->
+<h2 id="contributors"> Contributors</h2>
+<p>
+  :man: <b>Giovanni Rosato</b> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>giovanni.rosato@iit.it</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/GianniRos">@GianniRos</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linkedin: <a href="https://www.linkedin.com/in/giovanni-rosato-6284bb161/">@giovanni-rosato-linkedin</a> <br>
+</p>
